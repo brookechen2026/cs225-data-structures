@@ -1,0 +1,5 @@
+// Glides down and to the right
+
+_ * _
+_ _ *
+* * *
